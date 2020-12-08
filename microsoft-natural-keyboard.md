@@ -13,6 +13,4 @@ categories:
 tags:
   - Microsoft
   - Keyboard
-  - Split
-  - shortcuts
 ---
