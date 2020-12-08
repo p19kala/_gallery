@@ -8,8 +8,7 @@ caption: 'Ήταν το πρώτο πληκτρολόγιο της Microsoft κ�
 license_url: 'https://commons.wikimedia.org/wiki/File:MicrosoftNaturalKeyboardGen1.jpg'
 license_text: Courtesy of wikimedia
 categories:
-  - Αρχέτυπα 
-  - Εργαλεία
+  - Αρχέτυπα
   - input-device
 tags:
   - Microsoft
